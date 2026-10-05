@@ -176,6 +176,7 @@ Bullet Hell Tree:
 Corrected Impatience stack count presentation: it is currently and always has been 21.
 
 Impatience Reload Speed and Melee Damage per stack increased from 5% to 7.5%.
+
 -Wilhelm-
 
 Hunter Killer Tree:
