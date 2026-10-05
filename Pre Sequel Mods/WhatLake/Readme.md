@@ -100,6 +100,7 @@ Fixed an issue where neither of Fuzzy Logic's effects were applying. Yeah, at al
 Added 7.5% Swap Speed per point to Fuzzy Logic.
 
 Fixed a visual issue where Safety First stated its Max Health Regen was 2.5% instead of 2.0%.
+
 ^That's from base game, if you'd believe it!
 
 Float Like A Bee Melee Damage reduced from 7% to 6% per point.
@@ -117,6 +118,7 @@ Grenade Vent Grenade Resistance scaling changed: now 7% per point instead of 20%
 Death Machine Movement Speed increased from 4% to 5% per point.
 
 Tripleclocked now additionally provides 35% Status Effect Damage, scaling up to 105% with Frag Stacks. 
+
 ^ This applies regardless of your equipped Subroutine. 
 
 COMS:
@@ -144,6 +146,7 @@ Order stack Heal Chance increased from 1.25% to 1.35% per stack.
 Whiplash passive Melee Damage increased from 10% to 15%.
 
 Thunder Crackdown Damage scalar increased from 2.5 to 5.5.
+
 ^The way Nisha melee is calculated, it was actually dealing less damage than her standard melee.
 
 Thunder Crackdown Status Effect Damage scalar increased from 25 to 27.5.
